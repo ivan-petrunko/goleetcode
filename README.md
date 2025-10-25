@@ -1,4 +1,4 @@
-## Hello! Hola! Привет! ✌😉
+## Hello! Hola! Привет! ✌️😉
 Sharing my solutions to LeetCode problems in Go.
 
 ## Running
